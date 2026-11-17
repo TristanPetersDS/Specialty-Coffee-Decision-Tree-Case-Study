@@ -29,3 +29,9 @@ The dataset includes customer attributes and purchasing behavior, which serve as
 - Scikit-Learn
 - Pandas
 - Matplotlib & Seaborn (for visualization)
+
+## License
+
+The code I wrote is released under the [MIT License](LICENSE). It does not
+cover Springboard's exercise text or the datasets, which keep their own
+terms.
